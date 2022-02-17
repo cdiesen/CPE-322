@@ -2,6 +2,7 @@
 #### Installing PIP packages:
 ![](https://github.com/cdiesen/EE-322/blob/main/lab3/images/152431.png)
 ![](https://github.com/cdiesen/EE-322/blob/main/lab3/images/152457.png)
+
 (PIP is already installed on Raspberry Pi)
 
 #### End of Installation and Using Lab3 Python Scripts:
