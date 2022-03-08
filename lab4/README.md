@@ -17,5 +17,10 @@
 #### Creating MySQL database:
 ![](https://github.com/cdiesen/EE-322/blob/main/lab4/imagesAndResources/lab4p6.png)
 
+#### Viewing the map[^1]:
+![](https://github.com/cdiesen/EE-322/blob/main/lab4/imagesAndResources/lab4p7.png)
+
+## Running Flask:
+
 I pledge my honor that I have abided by the Stevens Honor System - *Christian Diesen*
 [^1]: I did not have google API set up, however it did not matter as I was able to screenshot it before the map disappeared.
