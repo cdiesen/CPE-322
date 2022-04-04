@@ -5,12 +5,12 @@ For characters and objects the hash values change with each iteration.
 ![](https://github.com/cdiesen/EE-322/blob/main/lab6/imagesAndResources/lab10a.png)
 
 ## Snakecoin Transactions:
-![](https://github.com/cdiesen/EE-322/blob/main/lab6/imagesAndResources/lab10b.png)
-![](https://github.com/cdiesen/EE-322/blob/main/lab6/imagesAndResources/lab10c.png)
+![](https://github.com/cdiesen/EE-322/blob/main/lab10/imagesAndResources/lab10b.png)
+![](https://github.com/cdiesen/EE-322/blob/main/lab10/imagesAndResources/lab10c.png)
 
 ## Python Blockchain App:
-![](https://github.com/cdiesen/EE-322/blob/main/lab6/imagesAndResources/lab10e.png)
-![](https://github.com/cdiesen/EE-322/blob/main/lab6/imagesAndResources/lab10d.png)
+![](https://github.com/cdiesen/EE-322/blob/main/lab10/imagesAndResources/lab10e.png)
+![](https://github.com/cdiesen/EE-322/blob/main/lab10/imagesAndResources/lab10d.png)
 
 
 I pledge my honor that I have abided by the Stevens Honor System - *Christian Diesen*
