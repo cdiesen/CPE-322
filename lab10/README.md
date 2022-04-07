@@ -1,8 +1,8 @@
-#### Lab 10: Blockchain
+# Lab 10: Blockchain
 ## Running hash_value.py and Comparison:
 It appears that some categories stay the same, such as the hash for integers, floats, and doubles.
 For characters and objects the hash values change with each iteration.
-![](https://github.com/cdiesen/EE-322/blob/main/lab6/imagesAndResources/lab10a.png)
+![](https://github.com/cdiesen/EE-322/blob/main/lab10/imagesAndResources/lab10a.png)
 
 ## Snakecoin Transactions:
 ![](https://github.com/cdiesen/EE-322/blob/main/lab10/imagesAndResources/lab10b.png)
